@@ -1,3 +1,5 @@
+May 2018
+
 Program służy do przeprowadzania operacji na jednym lub dwóch obrazach, takich jak:
 a) zmiana jasności
 b) zmiana kontrastu
